@@ -1,6 +1,5 @@
 import os
 import logging
-
 from pathlib import Path
 
 
@@ -18,8 +17,8 @@ list_of_file  = [
     "src/pipeline/prediction_pipeline.py",
     "src/utils/__init__.py",
     "src/utils/utils.py",
-    "src/logger/logging.py"
-    "src/exception/exception.py"
+    "src/logger/logging.py",
+    "src/exception/exception.py",
     "tests/unit/__init__.py",
     "tests/integration/__init__.py",
     "init_setup.sh",
